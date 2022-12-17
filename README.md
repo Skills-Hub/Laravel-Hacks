@@ -14,7 +14,7 @@ Laravel is a free and open-source PHP web framework, created by Taylor Otwell an
 ##### Laravel Facades 
 ##### Laravel debug 
 ##### Laravel database 
-##### Laravel Query builde r
+##### Laravel Query builder
 ##### Laravel Pagination 
 ##### Laravel Migration 
 ##### Laravel Seeding 
