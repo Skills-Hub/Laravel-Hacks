@@ -96,4 +96,5 @@ Laravel is a free and open-source PHP web framework, created by Taylor Otwell an
 ##### Laravel Training resources 
 ##### Frequently Asked Questions 
 ##### Common Issues 
+##### Curated list of Laravel tools and resources 
 
