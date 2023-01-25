@@ -87,3 +87,18 @@ Laravel-google-analytics
 Laravel-caching-extension
 Laravel-impersonate
 Laravel-responsecache-middle
+Laravel-html-minify
+Laravel-taggable
+Laravel-location
+Laravel-sluggable
+Laravel-imagine
+Laravel-sentry
+Laravel-template
+Laravel-searchable
+Laravel-visits
+Laravel-view-composers
+Laravel-sortable
+Laravel-push-notification
+Laravel-mail-log
+Laravel-image-manager
+Please note that this list is not exhaustive and there are many other popular and widely used Laravel packages available. These packages are actively maintained and have a good number of downloads and positive reviews from the community. Additionally, popularity and usage can vary over time, so it's worth keeping an eye on the latest packages and updates.
