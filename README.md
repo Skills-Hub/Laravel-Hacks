@@ -2,9 +2,8 @@
 Laravel is an open-source PHP web framework designed to make developing web applications easier and faster. It is based on the Model-View-Controller (MVC) architectural pattern and follows a model-view-controller design pattern. Laravel provides an expressive and elegant syntax that makes developing web applications a breeze. It also provides a robust set of tools and features that make it easier to build complex web applications.
 
 ##### [Laravel architecture ](https://github.com/Skills-Hub/Laravel-Hacks/blob/main/Architecture.md) 
-
 ##### [Laravel Application structure](https://github.com/Skills-Hub/Laravel-Hacks/blob/main/Laravel%20Application%20Structure.md) 
-##### Laravel commands 
+##### [Laravel Commands ](https://github.com/Skills-Hub/Laravel-Hacks/blob/main/Laravel-commands.md) 
 ##### Laravel composer 
 ##### Laravel packages 
 ##### Laravel installation 
